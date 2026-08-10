@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.8.1"
+  version: "0.9.1"
 
 package:
   name: snapper-fmt
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://github.com/TurtleTech-ehf/snapper/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: c2b4c8bb49445d449d75967f64c6e001718d1797b6a5357b2d839449961a7442
+  sha256: 597b1a191cacc45df4de46fa272ca80a4ca1be80b5febd1d14ddf801e5701bbf
 
 build:
   number: 0
